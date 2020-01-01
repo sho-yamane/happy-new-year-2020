@@ -1,0 +1,13 @@
+{
+  "name": "happy-new-year-2020",
+  "version": "1.0.0",
+  "repository": "https://qrac@github.com/qrac/happy-new-year-2020.git",
+  "author": "Qrac",
+  "license": "MIT",
+  "scripts": {
+    "2020": "ascii-art image -B 32 -C rankedChannel -a blocks ./happy-new-year-2020.png"
+  },
+  "dependencies": {
+    "ascii-art": "^2.5.0"
+  }
+}
